@@ -1,5 +1,5 @@
 # Arabic-Sentiment-AnalysisNB
-The objective of this project is to develop a sentiment analysis using Multinomial Naive Bayes Classifier for the Arabic language.
+This project demonstrates the process of training a Multinomial Naive Bayes (NB) classifier for text classification using a pipeline that includes TF-IDF vectorization, with a focus on optimizing the model parameters through grid search.
 
 
 
