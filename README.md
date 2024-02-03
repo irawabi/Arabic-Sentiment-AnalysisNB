@@ -5,6 +5,7 @@ The objective of this project is to develop a sentiment analysis using Multinomi
 
 # Dataset Description
 The dataset combines reviews from hotels, books, movies, products and a few airlines. It has three classes (Mixed, Negative and Positive). Each row has a label and text separated by a tab (tsv).
+
 Available on Kaggle: https://www.kaggle.com/datasets/abedkhooli/arabic-100k-reviews
 
 # Multinomial NB Model result 
